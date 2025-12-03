@@ -1,0 +1,30 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue5_test\\testplugins\\plugins\\encryptionproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\encryptionproject\\module.encryptionproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5_test\\testplugins\\intermediate\\build\\win64\\x64\\testpluginseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\ue5_test\\testplugins\\plugins\\encryptionproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\encryptionproject\\definitions.encryptionproject.h",
+            "d:\\ue5_test\\testplugins\\plugins\\encryptionproject\\intermediate\\build\\win64\\unrealeditor\\inc\\encryptionproject\\uht\\encryptionactor.gen.cpp",
+            "d:\\ue5_test\\testplugins\\plugins\\encryptionproject\\source\\encryptionproject\\encryption\\encryptionactor.h",
+            "d:\\ue5_test\\testplugins\\plugins\\encryptionproject\\intermediate\\build\\win64\\unrealeditor\\inc\\encryptionproject\\uht\\encryptionactor.generated.h",
+            "d:\\ue5_test\\testplugins\\plugins\\encryptionproject\\intermediate\\build\\win64\\unrealeditor\\inc\\encryptionproject\\uht\\encryptionproject.init.gen.cpp",
+            "d:\\ue5_test\\testplugins\\plugins\\encryptionproject\\intermediate\\build\\win64\\unrealeditor\\inc\\encryptionproject\\uht\\networkfunctionlibrary.gen.cpp",
+            "d:\\ue5_test\\testplugins\\plugins\\encryptionproject\\source\\encryptionproject\\encryption\\networkfunctionlibrary.h",
+            "d:\\ue5_test\\testplugins\\plugins\\encryptionproject\\intermediate\\build\\win64\\unrealeditor\\inc\\encryptionproject\\uht\\networkfunctionlibrary.generated.h",
+            "d:\\ue5_test\\testplugins\\plugins\\encryptionproject\\intermediate\\build\\win64\\unrealeditor\\inc\\encryptionproject\\uht\\passwordencryption.gen.cpp",
+            "d:\\ue5_test\\testplugins\\plugins\\encryptionproject\\source\\encryptionproject\\encryption\\passwordencryption.h",
+            "d:\\ue5_test\\testplugins\\plugins\\encryptionproject\\intermediate\\build\\win64\\unrealeditor\\inc\\encryptionproject\\uht\\passwordencryption.generated.h",
+            "d:\\ue5_test\\testplugins\\plugins\\encryptionproject\\intermediate\\build\\win64\\unrealeditor\\inc\\encryptionproject\\uht\\projectsavegame.gen.cpp",
+            "d:\\ue5_test\\testplugins\\plugins\\encryptionproject\\source\\encryptionproject\\encryption\\projectsavegame.h",
+            "d:\\software\\ue\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\savegame.h",
+            "d:\\software\\ue\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\savegame.generated.h",
+            "d:\\ue5_test\\testplugins\\plugins\\encryptionproject\\intermediate\\build\\win64\\unrealeditor\\inc\\encryptionproject\\uht\\projectsavegame.generated.h",
+            "d:\\ue5_test\\testplugins\\plugins\\encryptionproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\encryptionproject\\permoduleinline.gen.cpp",
+            "d:\\software\\ue\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

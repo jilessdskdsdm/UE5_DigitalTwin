@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue5_test\\testplugins\\plugins\\encryptionproject\\source\\encryptionproject\\encryptionproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5_test\\testplugins\\intermediate\\build\\win64\\x64\\testpluginseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\ue5_test\\testplugins\\plugins\\encryptionproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\encryptionproject\\definitions.encryptionproject.h",
+            "d:\\ue5_test\\testplugins\\plugins\\encryptionproject\\source\\encryptionproject\\encryptionproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.EncryptionProject.cpp.obj": [
+			"EncryptionActor.gen.cpp.obj",
+			"EncryptionProject.init.gen.cpp.obj",
+			"NetworkFunctionLibrary.gen.cpp.obj",
+			"PasswordEncryption.gen.cpp.obj",
+			"ProjectSaveGame.gen.cpp.obj",
+			"EncryptionProject.cpp.obj",
+			"EncryptionActor.cpp.obj",
+			"NetworkFunctionLibrary.cpp.obj",
+			"PasswordEncryption.cpp.obj",
+			"ProjectSaveGame.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue5_test\\testplugins\\plugins\\digitaltwin\\source\\digitaltwin\\actor\\tag\\tagcontroller.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue5_test\\testplugins\\intermediate\\build\\win64\\x64\\testplugins\\shipping\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\ue5_test\\testplugins\\plugins\\digitaltwin\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\digitaltwin\\definitions.digitaltwin.h",
+            "d:\\ue5_test\\testplugins\\plugins\\digitaltwin\\source\\digitaltwin\\actor\\tag\\tagcontroller.h",
+            "d:\\ue5_test\\testplugins\\plugins\\digitaltwin\\intermediate\\build\\win64\\unrealgame\\inc\\digitaltwin\\uht\\tagcontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
